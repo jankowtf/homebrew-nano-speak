@@ -1,6 +1,6 @@
 cask "nanospeak" do
-  version "0.0.1"
-  sha256 "02d6603177e1a84458fdd468e2a44e12014ebc42ea1374ce085795d80156f2bf"
+  version "0.0.2"
+  sha256 "5323118a88b9d63f6c33e9c0a0117337d976fb0a523a0f931c268ee9217774e7"
 
   url "https://github.com/jankowtf/homebrew-nano-speak/releases/download/v#{version}/NanoSpeak-#{version}.zip"
 
